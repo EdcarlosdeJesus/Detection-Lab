@@ -18,6 +18,7 @@ usando duas ferramentas épicas. Wireshark e TCPDump, para capturar tráfego ao 
 - TCPDump (Analysing PCAPs)
 
 # Passos
+![Endereço IP do host que enviou o maior número de bytes](https://github.com/user-attachments/assets/8a1d95b3-55a2-4436-839a-d8d19317776a)
 
 
 
