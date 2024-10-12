@@ -14,8 +14,8 @@ usando duas ferramentas épicas. Wireshark e TCPDump, para capturar tráfego ao 
 # Ferramentas usadas
 - Wireshark(Capturing Traffic)
 - Wireshark(Analysing PCAPs)
-- TCPDump (Capturing Traffic).
-- TCPDump (Analysing PCAPs).
+- TCPDump (Capturing Traffic)
+- TCPDump (Analysing PCAPs)
 
 # Passos
 
