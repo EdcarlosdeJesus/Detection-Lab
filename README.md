@@ -19,9 +19,13 @@ usando duas ferramentas épicas. Wireshark e TCPDump, para capturar tráfego ao 
 
 # Passos
 -Endereço IP do host que enviou o maior número de bytes
-![Endereço IP do host que enviou o maior número de bytes](https://github.com/user-attachments/assets/8a1d95b3-55a2-4436-839a-d8d19317776a)
+ 
 -Mostrando quantos pacotes de resposta de consulta DNS foram capturados
-![Mostrando quantos pacotes de resposta de consulta DNS foram capturados](https://github.com/user-attachments/assets/387c0b14-efeb-4873-8fec-5ad000d11f6b)
+ 
+<div style="display: flex;">
+    <img src="https://github.com/user-attachments/assets/387c0b14-efeb-4873-8fec-5ad000d11f6b" width="300" style="margin-right: 10px;" />
+    <img src="[outra_imagem_aqui](https://github.com/user-attachments/assets/8a1d95b3-55a2-4436-839a-d8d19317776a)" width="300" />
+</div>
 
 
 
